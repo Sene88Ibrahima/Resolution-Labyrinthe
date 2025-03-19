@@ -29,8 +29,8 @@ Ce projet implémente un solveur de labyrinthe utilisant les algorithmes de rech
 
 1. Clonez le repository :
 ```bash
-git clone https://github.com/votre-username/labyrinthe.git
-cd labyrinthe
+git clone https://github.com/Sene88Ibrahima/Resolution-Labyrinthe.git
+cd Resolution-Labyrinthe
 ```
 
 2. Compilez le projet :
