@@ -4,11 +4,11 @@ Ce projet implémente un solveur de labyrinthe utilisant les algorithmes de rech
 
 ## Table des matières
 
-1. [Vue d'ensemble](#vue-densemble)
-2. [Fonctionnalités](#fonctionnalités)
-3. [Prérequis](#prérequis)
-4. [Installation](#installation)
-5. [Utilisation](#utilisation)
+1. [Vue d’ensemble](#vue-densemble)
+2. [Fonctionnalités](#-fonctionnalités)
+3. [Prérequis](#-prérequis)
+4. [Installation](#-installation)
+5. [Utilisation](#-utilisation)
     1. [Mode Graphique](#mode-graphique)
     2. [Mode Console](#mode-console)
 6. [Format des fichiers de labyrinthe](#format-des-fichiers-de-labyrinthe)
@@ -20,6 +20,7 @@ Ce projet implémente un solveur de labyrinthe utilisant les algorithmes de rech
 12. [Contribution](#contribution)
 13. [Licence](#licence)
 14. [Contributeurs](#contributeurs)
+
 
 
 ## 🎯 Fonctionnalités
