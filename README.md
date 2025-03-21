@@ -2,6 +2,26 @@
 
 Ce projet implémente un solveur de labyrinthe utilisant les algorithmes de recherche en profondeur (DFS) et en largeur (BFS). Il permet de visualiser et comparer les performances de ces deux algorithmes de manière interactive.
 
+## Table des matières
+
+1. [Vue d'ensemble](#vue-densemble)
+2. [Fonctionnalités](#fonctionnalités)
+3. [Prérequis](#prérequis)
+4. [Installation](#installation)
+5. [Utilisation](#utilisation)
+    1. [Mode Graphique](#mode-graphique)
+    2. [Mode Console](#mode-console)
+6. [Format des fichiers de labyrinthe](#format-des-fichiers-de-labyrinthe)
+7. [Statistiques affichées](#statistiques-affichées)
+8. [Structure du projet](#structure-du-projet)
+9. [Comparaison des algorithmes](#comparaison-des-algorithmes)
+10. [Vidéo de présentation](#vidéo-de-présentation)
+11. [Documentation](#documentation)
+12. [Contribution](#contribution)
+13. [Licence](#licence)
+14. [Contributeurs](#contributeurs)
+
+
 ## 🎯 Fonctionnalités
 
 - **Chargement de labyrinthe**
@@ -166,3 +186,8 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 ## 📄 Licence
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails. 
+
+## 🤝 Contributeurs
+- Magatte DIAWARA : magui245 
+- Ibrahima SENE : Sene88Ibrahima
+- Abdou Aziz SY : Abdou-Aziz-Sy
