@@ -169,7 +169,7 @@ src/
 
 ## 🎥 Vidéo de présentation
 
-[Lien vers la vidéo YouTube de présentation](https://youtube.com/votre-video)
+[Lien vers la vidéo YouTube de présentation] -> https://youtu.be/Gbw1aW8Wzbc
 
 ## 📚 Documentation
 
